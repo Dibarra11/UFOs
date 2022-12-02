@@ -34,4 +34,4 @@ Added variable to perform the filtering correctly on the app.js
 ![image(https://github.com/Dibarra11/UFOs/blob/a18e145136ff9b0320cb3e06694f72a3fdd03421/static/Images/8.png)
 
 If-else statement to clear the search box after filtering
-![image](
+![image](https://github.com/Dibarra11/UFOs/blob/785d323ca5309cad21e800dba83bae288aa36377/static/Images/7.png)
