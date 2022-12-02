@@ -25,3 +25,8 @@ Third filter utilizing the City box and applying the word search "San Diego"
 Fourth filter utulizing the Date box and applying the date search "1/11/2010"
 
 ![image](https://github.com/Dibarra11/UFOs/blob/16cf23bc67c94502f48a1d0c9e89eb34b5ec521c/static/Images/5.png)
+
+Code used to apply the filtering functionality in the html file
+
+![image](https://github.com/Dibarra11/UFOs/blob/7d405d73bab40db1139e582e92fc5e756c76b171/static/Images/6.png)
+
