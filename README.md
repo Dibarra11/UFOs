@@ -20,4 +20,4 @@ Second filter utilizing the State box and applying the word search "CA"
 
 Third filter utilizing the City box and applying the word search "San Diego"
 
-![image]()
+![image](https://github.com/Dibarra11/UFOs/blob/d4366026ee7abe20a60a4d1a7196d57bb2c5f3a0/static/Images/4.png)
