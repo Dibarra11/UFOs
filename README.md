@@ -12,4 +12,8 @@ By adding additonal components to the webapage we enhanced the view by adding a 
 
 First filter utilizing the Shape box and applying the word search "circle"
 
+![image](https://github.com/Dibarra11/UFOs/blob/284f992ca29ab24f43efa661c5903885fc2bb067/static/Images/2.png)
+
+Second filter utilizing the State box and applying the word search "CA"
+
 ![image]()
