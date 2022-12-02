@@ -30,3 +30,5 @@ Code used to apply the filtering functionality in the html file
 
 ![image](https://github.com/Dibarra11/UFOs/blob/7d405d73bab40db1139e582e92fc5e756c76b171/static/Images/6.png)
 
+Added variable to perform the filtering correctly on the app.js
+![image(
