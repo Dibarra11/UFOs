@@ -16,4 +16,8 @@ First filter utilizing the Shape box and applying the word search "circle"
 
 Second filter utilizing the State box and applying the word search "CA"
 
+![image](https://github.com/Dibarra11/UFOs/blob/041710eff4d66749c9f0c314ee3a969326d5b498/static/Images/3.png)
+
+Third filter utilizing the City box and applying the word search "San Diego"
+
 ![image]()
