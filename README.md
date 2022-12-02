@@ -37,3 +37,7 @@ Added variable to perform the filtering correctly on the app.js
 If-else statement to clear the search box after filtering
 
 ![image](https://github.com/Dibarra11/UFOs/blob/785d323ca5309cad21e800dba83bae288aa36377/static/Images/7.png)
+
+## Summary
+
+Applying the filtering, if-else statement, the variable, and the use of CSS added more functionality to the web page to make it more user-friendly. Adding additional colors to the page will make it more visually appealing for the user. Additionally, when available, have a picture of the UFO attached to the search making the search more exciting and adding more visuals to the page.
