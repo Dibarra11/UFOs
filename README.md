@@ -22,6 +22,6 @@ Third filter utilizing the City box and applying the word search "San Diego"
 
 ![image](https://github.com/Dibarra11/UFOs/blob/d4366026ee7abe20a60a4d1a7196d57bb2c5f3a0/static/Images/4.png)
 
-Fourth filter utulizing the Date box and applying the date search "1/1/2010"
+Fourth filter utulizing the Date box and applying the date search "1/11/2010"
 
 ![image](https://github.com/Dibarra11/UFOs/blob/16cf23bc67c94502f48a1d0c9e89eb34b5ec521c/static/Images/5.png)
